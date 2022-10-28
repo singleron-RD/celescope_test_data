@@ -1,6 +1,7 @@
 capture_virus/EBV_genome/*
 !capture_virus/EBV_genome/EBV_genome.fasta
 !capture_virus/EBV_genome/mkref.sh
+!capture_virus/EBV_genome/EBV_five_genes.gtf
 
 tag/fake_match_dir/05.count/fake_match_dir_matrix_10X/genes.tsv
 tag/fake_match_dir/05.count/fake_match_dir_matrix_10X/matrix.mtx
